@@ -1,0 +1,40 @@
+@charset "utf-8";
+body {
+  font-family: Gotham, Helvetica, Arial, sans-serif;
+  color: #58595B;
+  margin: 0px auto;
+  padding: 30px;
+  background: url(../images/Europe.jpg) ;
+  background-size:cover;
+ 
+  }
+  
+div{color: #F7F7F7;
+text-align:right;}
+
+td{ border-radius:3px;
+background-color:#fff;
+padding:10px;
+margin-bottom:3px;
+text-align:left;}/* CSS Document */
+
+
+table {
+  padding: 10px;
+  margin-left:auto; 
+  margin-right:auto;
+  float:right;}
+  
+
+a {
+  color: #00ab95;
+  text-decoration: none;}
+
+a:hover {
+  color: #ed6c7b;
+  text-decoration:underline;}
+ 
+.blank {
+  background: #f7f7f7;}
+  
+ 
